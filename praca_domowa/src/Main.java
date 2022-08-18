@@ -1,9 +1,18 @@
-import java.sql.SQLOutput;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Dorota");
-        System.out.println("czesc");
+        String name = "Kacper";
+        int age = 26;
+        char znak = 'a';
+        int x = 10;
+        int y = 20;
+        int c = x + y;
+        //System.out.println("Hello " + name + "ktory ma " + age );
+        System.out.println(c);
+
+
+
+
 
     }
 }
