@@ -9,7 +9,7 @@ public class Bramkarz {
         out.println("Jak masz na imie?");
         Scanner scanner = new Scanner(System.in);
         String[] name = new String[9];
-        name[0] = "Anna";
+        name[0]= "Anna";
         name[1] = "Darek";
         name[2] = "Piotr";
         name[3] = "Pawel";
